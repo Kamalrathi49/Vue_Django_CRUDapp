@@ -1,0 +1,5 @@
+/venv
+/backend/myproject/__pycache__
+/backend/restapi/__pycache__
+/backend/restapi/migrations
+/backend/db.sqlite3
